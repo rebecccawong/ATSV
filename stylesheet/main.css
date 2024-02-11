@@ -411,6 +411,7 @@ background: rgb(193, 42, 42);
 .gallery-flex1 h3{
     text-align: left;
     margin-left: 3vw;
+    font-size: 1.5em;
 }
 
 .gallery-flex2 p{
